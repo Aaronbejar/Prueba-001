@@ -12,7 +12,7 @@ public class Alumno {
         this.creditos = 0;
         this.estado = "REGULAR";
     }
-    
+    //metodos para el alumno
     Alumno (String codigo, String nombre){
         this(codigo);
         this.nombre = nombre;
